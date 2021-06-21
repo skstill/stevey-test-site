@@ -16,7 +16,6 @@
     "lerna": "^3.16.4"
   },
   "dependencies": {
-    "@logicofenglish/loe": "^0.0.1",
     "@logicofenglish/trash-widgets": "^0.0.5"
   }
 }
